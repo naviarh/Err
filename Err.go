@@ -1,4 +1,4 @@
-package e
+package Err
 
 import (
 	"log"
